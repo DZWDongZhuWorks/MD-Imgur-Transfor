@@ -9,7 +9,7 @@
 ## Usage
 
 1. 註冊 [API](https://api.imgur.com/oauth2/addclient)
-2. 獲得 Client ID 並修改 [程式碼](MD-Imgur-Transfor.py)中的 `client_id`
+2. 獲得 Client ID 並修改 `config.json` 中的 `client_id`
 3. 執行程式碼
 
     python MD-Imgur-Transfor.py
